@@ -1,2 +1,4 @@
 name: Claire Houchen, Scientist-in-Training
 markdown: kramdown
+
+theme: jekyll-theme-cayman
